@@ -5,12 +5,88 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 11:15:05 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 14:14:28 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Create report</title>
+      <link>https://example.com/post/createreport/</link>
+      <pubDate>Sat, 29 Apr 2023 14:14:28 +0300</pubDate>
+      <guid>https://example.com/post/createreport/</guid>
+      <description>&lt;p&gt;Для оформления отчёта используется язык разметки Markdown. В отчёт вводится ФИО учащегося, цель работы, процесс выполнения работы и выводы. К каждому этапу работы прилагаются скриншоты и ссылки на них.&lt;/p&gt;
+&lt;p&gt;Для генерации форматов docs и pdf используется pandoc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lastweek3</title>
+      <link>https://example.com/post/lastweek3/</link>
+      <pubDate>Sat, 29 Apr 2023 14:06:31 +0300</pubDate>
+      <guid>https://example.com/post/lastweek3/</guid>
+      <description>&lt;p&gt;За прошедшую неделю я написала контрольную работу по математическому анализу и сделала лабораторную работу №12 по компьютерным наукам и технологиям программирования&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA/</link>
+      <pubDate>Sat, 08 Apr 2023 03:46:32 +0300</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA/</guid>
+      <description>&lt;p&gt;Markdown — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере. Маркдаун создал писатель и блогер Джон Грубер вместе с веб-активистом Аароном Шварцем. Они хотели придумать максимально простой и удобный язык разметки, с помощью которого текст можно перевести в красиво оформленный вид. При этом текст обязан оставаться читаемым даже без приведения к «красивому» виду.&lt;/p&gt;
+&lt;p&gt;Кто пользуется маркдауном&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Пользователи интернета, которые общаются в мессенджерах и пишут заметки в сервисах, поддерживающих разметку.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Разработчики, которые пишут с помощью маркдауна документацию для проектов, — им нужен простой и надежный инструмент.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Контент-менеджеры при наполнении сайтов, которые поддерживают маркдаун. Разметка может использоваться и на веб-страницах.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Блогеры, пишущие лонгриды, когда оформляют материалы для статей. Многие платформы для написания текстов поддерживают маркдаун, например Notion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Писатели и копирайтеры, которым нужен простой инструмент для оформления текста — разметка, читаемая с любого устройства.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Энтузиасты, которые пользуются разметкой в личных целях: пишут заметки и списки дел, ведут дневники или составляют карточки для запоминания.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Для чего нужен маркдаун&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Быстрое форматирование статьи для перевода в PDF или чтобы она просто выглядела красиво без лишних усилий.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Верстка текстового документа для размещения на сайте, но без применения HTML.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Написание документации для кода.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Составление заметок в личном цифровом блокноте.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Написание красивых сообщений в мессенджерах&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lastweek2</title>
+      <link>https://example.com/post/lastweek2/</link>
+      <pubDate>Sat, 08 Apr 2023 03:30:18 +0300</pubDate>
+      <guid>https://example.com/post/lastweek2/</guid>
+      <description>&lt;p&gt;На этой неделе я писала контрольную по предмету &amp;ldquo;Математическая логика&amp;rdquo;, а также сделала лабораторную работу №9 по &amp;ldquo;Компьютерным наукам и технологиям программирования&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Непрерывная интеграция и непрерывное развертывание (CI/CD)</title>
@@ -254,7 +330,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-421783659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-483195672&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -264,7 +340,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-421783659&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-483195672&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
